@@ -1,0 +1,7 @@
+﻿  Source.cpp
+G:\APPS\VS\Projects\SP Project LOL\Source.cpp(5,32): warning C4081: expected 'newline'; found '.'
+G:\APPS\VS\Projects\SP Project LOL\Source.cpp(184,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\APPS\VS\Projects\SP Project LOL\Source.cpp(194,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\APPS\VS\Projects\SP Project LOL\Source.cpp(204,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\APPS\VS\Projects\SP Project LOL\Source.cpp(284,11): warning C4129: ' ': unrecognized character escape sequence
+  SP Project LOL.vcxproj -> G:\APPS\VS\Projects\SP Project LOL\x64\Debug\SP Project LOL.exe

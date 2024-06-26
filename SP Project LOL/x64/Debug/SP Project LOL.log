@@ -1,0 +1,7 @@
+﻿  Source.cpp
+G:\KOLEYA\Projects\SP Project LOL\Source.cpp(5,32): warning C4081: expected 'newline'; found '.'
+G:\KOLEYA\Projects\SP Project LOL\Source.cpp(184,21): warning C4305: '=': truncation from 'double' to 'float'
+G:\KOLEYA\Projects\SP Project LOL\Source.cpp(194,21): warning C4305: '=': truncation from 'double' to 'float'
+G:\KOLEYA\Projects\SP Project LOL\Source.cpp(204,21): warning C4305: '=': truncation from 'double' to 'float'
+G:\KOLEYA\Projects\SP Project LOL\Source.cpp(284,11): warning C4129: ' ': unrecognized character escape sequence
+  SP Project LOL.vcxproj -> G:\KOLEYA\Projects\SP Project LOL\x64\Debug\SP Project LOL.exe
